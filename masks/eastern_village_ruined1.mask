@@ -1,0 +1,7 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, Wwr^Dr, Wwr, Wwr, _f, Wwr^Dr, _f, _f, _f
+_f, _f, Wwr, Wwr, _f, Wwr, Wwr, Wwr, Wwr, _f
+_f, Wwr, Wwr, _f, _f, _f, _f, _f, _f, _f
+_f, Wwr^Dr, Wwr, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, Wwr, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f

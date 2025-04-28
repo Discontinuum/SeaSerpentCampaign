@@ -1,0 +1,6 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, Gs^Ftp, Rb^Ft, Rb^Dr, Rb^Dr, Rb^Edt, Rb^Dr, Rb^Edt, Gs^Ftp, _f
+_f, Rb^Dr, Rb^Edt, Rb^Dr, Ds^Edt, Rb^Dr, Rb^Dr, Rb^Es, Rb^Dr, _f
+_f, Rb^Edt, Ds^Edt, Ds^Edt, Ww, Ds^Edt, Ds^Edt, Rb^Es, Rb^Edt, _f
+_f, Ds^Edt, _f, Ww, _f, Ww, _f, Rb^Edt, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f

@@ -1,0 +1,6 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, Gs^Ftp, Ww^Ft, Ww^Dr, Ww^Dr, Ww^Em, Ww^Dr, Rb, Gs^Ftp, _f
+_f, Ww^Dr, Ww, Ww^Dr, Ww, Ww^Dr, Ww^Dr, Ww^Es, Ww^Dr, _f
+_f, Rb, Ww, Ww, Ww, Ww, Ww, Ww^Es, Rb, _f
+_f, Ds, _f, Ww, _f, Ww, _f, Ww, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f

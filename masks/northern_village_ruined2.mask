@@ -1,0 +1,7 @@
+_f, _f, _f, _f, _f, _f, _f
+_f, _f, Ds^Edt, _f, _f, _f, _f
+_f, _f, Rb^Dr, Ds^Edt, Ds^Edt, _f, _f
+_f, _f, Rb^Es, Rb^Edt, Ds^Edt, _f, _f
+_f, _f, Rb^Dr, Rb, Rb^Edt, Ds^Edt, _f
+_f, _f, _f, _f, _f, Ds^Edt, _f
+_f, _f, _f, _f, _f, _f, _f
